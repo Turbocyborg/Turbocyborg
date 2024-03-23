@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Everything That Interests me...**
 
-- 🤝 I’m looking for help with **My Introvertness**
-
 - 💬 Ask me about **Anything...**
 
 <h3 align="left">Connect with me:</h3>
