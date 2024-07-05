@@ -12,8 +12,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/turbo-cyborg-978b3025b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="turbo-cyborg-978b3025b" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/turbocyb0rg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="turbocyb0rg" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/turbocyborg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="turbocyborg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/turb0cyb0rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="turb0cyb0rg" height="30" width="40" /></a>
 <a href="https://discord.gg/520079621497159696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="520079621497159696" height="30" width="40" /></a>
 </p>
