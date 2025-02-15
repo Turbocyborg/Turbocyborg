@@ -1,77 +1,23 @@
-<h1 align="center">Hi 👋, I'm Turbopsyb0rg</h1>
-<h3 align="center">A passionate developer, problem solver, and lifelong learner</h3>
+# Hi, I'm Turbopsyb0rg 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=turbopsyb0rg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=turbopsyb0rg" alt="Trophy" />
-  </a>
-</p>
-
----
+I'm a passionate developer, problem solver, and lifelong learner.
 
 ## About Me
+- 🔭 Currently working on **CP Skills**
+- 🌱 Learning **Everything...**
+- 👯 Open to collaborating on interesting projects
+- 💬 Ask me about **anything tech**
+- ⚡ Fun Fact: I love exploring new trends and solving complex challenges!
 
-- 🔭 I’m currently working on **CP Skills**
-- 🌱 I’m currently learning **Everything...**
-- 👯 I’m looking to collaborate on **Anything That Interests Me**
-- 💬 Ask me about **Whatever you like**
-- ⚡ Fun Fact: I love exploring new tech trends and solving complex challenges!
+## Tech Stack
+**C++ • Python • Java • JavaScript • HTML • CSS**
 
-When I'm not coding, you'll find me diving into competitive programming challenges, reading tech blogs, or experimenting with new ideas.
-
----
-
-## Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css" alt="Tech Stack" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=turbopsyb0rg&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turbopsyb0rg&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## Latest Projects
-
-- **[Project One](#)** – working...
-- **[Project Two](#)** – working...
-- **[Project Three](#)** – working...
-
----
+## Projects
+- [Project One](#) – in progress
+- [Project Two](#) – in progress
+- [Project Three](#) – in progress
 
 ## Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/turbo-cyborg-978b3025b" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" height="30" />
-  </a>
-  <a href="https://leetcode.com/my_oasis" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/leetcode.svg" alt="LeetCode" height="30" />
-  </a>
-  <a href="https://discord.gg/520079621497159696" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/discord.svg" alt="Discord" height="30" />
-  </a>
-</p>
-
----
-
-## Get in Touch
-
-I'm always open to discussing new ideas, projects, or potential collaborations. If you have any questions or just want to say hello, feel free to reach out!
-
-<p align="center">
-  <i>"The journey of a thousand miles begins with a single step." – Lao Tzu</i>
-</p>
+- [LinkedIn](https://linkedin.com/in/turbo-cyborg-978b3025b)
+- [LeetCode](https://leetcode.com/my_oasis)
+- [Discord](https://discord.gg/520079621497159696)
