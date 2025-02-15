@@ -28,7 +28,7 @@ When I'm not coding, you'll find me diving into competitive programming challeng
 ## Tech Stack & Tools
 
 <p align="center">
-  <!-- Customize the icons below with your favorite tech -->
+  <!-- Customize the icons-->
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css" alt="tech stack" />
 </p>
 
@@ -47,9 +47,9 @@ When I'm not coding, you'll find me diving into competitive programming challeng
 
 ## Latest Projects
 
-- **[Project One](#)** – A brief description of what this project does and why it's cool.
-- **[Project Two](#)** – A short explanation of this project's functionality and tech stack.
-- **[Project Three](#)** – An overview of how this project solves a real-world problem.
+- **[Project One](#)** – working...
+- **[Project Two](#)** – working...
+- **[Project Three](#)** – working...
 
 Feel free to check out my repositories for more details!
 
