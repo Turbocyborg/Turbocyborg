@@ -2,12 +2,12 @@
 <h3 align="center">A passionate developer, problem solver, and lifelong learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=turbocyb0rg&label=Profile%20views&color=0e75b6&style=flat" alt="turbocyb0rg" />
+  <img src="https://komarev.com/ghpvc/?username=turbopsyb0rg&label=Profile%20views&color=0e75b6&style=flat" alt="turbopsyb0rg" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=turbocyb0rg" alt="turbocyb0rg" />
+    <img src="https://github-profile-trophy.vercel.app/?username=turbopsyb0rg" alt="turbopsyb0rg" />
   </a>
 </p>
 
@@ -37,10 +37,10 @@ When I'm not coding, you'll find me diving into competitive programming challeng
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=turbocyb0rg&show_icons=true&theme=radical" alt="Turbocyb0rg's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=turbopsyb0rg&show_icons=true&theme=radical" alt="turbopsyb0rg's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turbocyb0rg&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turbopsyb0rg&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
