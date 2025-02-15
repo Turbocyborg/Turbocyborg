@@ -2,12 +2,12 @@
 <h3 align="center">A passionate developer, problem solver, and lifelong learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=turbopsyb0rg&label=Profile%20views&color=0e75b6&style=flat" alt="turbopsyb0rg" />
+  <img src="https://komarev.com/ghpvc/?username=turbopsyb0rg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=turbopsyb0rg" alt="turbopsyb0rg" />
+    <img src="https://github-profile-trophy.vercel.app/?username=turbopsyb0rg" alt="Trophy" />
   </a>
 </p>
 
@@ -28,8 +28,7 @@ When I'm not coding, you'll find me diving into competitive programming challeng
 ## Tech Stack & Tools
 
 <p align="center">
-  <!-- Customize the icons-->
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css" alt="Tech Stack" />
 </p>
 
 ---
@@ -37,7 +36,7 @@ When I'm not coding, you'll find me diving into competitive programming challeng
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=turbopsyb0rg&show_icons=true&theme=radical" alt="turbopsyb0rg's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=turbopsyb0rg&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turbopsyb0rg&layout=compact&theme=radical" alt="Top Languages" />
@@ -51,21 +50,19 @@ When I'm not coding, you'll find me diving into competitive programming challeng
 - **[Project Two](#)** – working...
 - **[Project Three](#)** – working...
 
-Feel free to check out my repositories for more details!
-
 ---
 
 ## Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/turbo-cyborg-978b3025b" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" height="30" />
   </a>
-  <a href="https://www.leetcode.com/my_oasis" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  <a href="https://leetcode.com/my_oasis" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/leetcode.svg" alt="LeetCode" height="30" />
   </a>
   <a href="https://discord.gg/520079621497159696" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/discord.svg" alt="Discord" height="30" />
   </a>
 </p>
 
