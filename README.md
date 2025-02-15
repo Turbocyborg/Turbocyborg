@@ -39,7 +39,7 @@
   <a href="https://linkedin.com/in/turbo-cyborg-978b3025b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/my_oasis" target="_blank">
+  <a href="https://leetcode.com/u/turb0cyb0rg" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://discord.gg/520079621497159696" target="_blank">
